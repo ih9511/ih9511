@@ -16,6 +16,15 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   $Hanyang$ $University,$ $ERICA$  
   March 2014 - February 2022
 
+## 🌟Experience
+- **SK Networks Family AI Camp**
+  $SK$ $Networks$  
+  May 2024 - Present
+
+- **Basic AI Engineer Course**
+  $Naver$ $Connect$  
+  April 2024 - Present
+
 ## 🪄Skills
 - **Tech Stack**
   <div>
