@@ -1,5 +1,3 @@
-# Hi there, I'm Inheon Choi 👋
-
 ## About Me
 I'm passionate about AI convergence jobs and aim to contribute to developing AI technologies that benefit people. My continuous exploration focuses on identifying crucial aspects in designing and developing human-centric artificial intelligence.
 
@@ -17,11 +15,11 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   March 2014 - February 2022
 
 ## 🌟Experience
-- **SK Networks Family AI Camp**
+- **SK Networks Family AI Camp**  
   $SK$ $Networks$  
   May 2024 - Present
 
-- **Basic AI Engineer Course**
+- **Basic AI Engineer Course**  
   $Naver$ $Connect$  
   April 2024 - Present
 
