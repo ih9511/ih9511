@@ -21,7 +21,7 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
 
 - **Basic AI Engineer Course**  
   $Naver$ $Connect$  
-  April 2024 - Present
+  April 2024 - June 2024
 
 ## 🪄Skills
 - **Tech Stack**
