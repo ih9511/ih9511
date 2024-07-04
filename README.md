@@ -15,11 +15,15 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   March 2014 - February 2022
 
 ## 🌟Experience
+- **LG Aimers**  
+  $LG$ $AI$ $Research$  
+  July 2024 - September 2024
+
 - **SK Networks Family AI Camp**  
   $SK$ $Networks$  
-  May 2024 - Present
+  May 2024 - November 2024
 
-- **Basic AI Engineer Course**  
+- **AI Engineer Course**  
   $Naver$ $Connect$  
   April 2024 - June 2024
 
