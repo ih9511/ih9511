@@ -54,6 +54,8 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> &nbsp
   </div>
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fih9511&count_bg=%23A1C4EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 📣Contact Me
   <div>
   	<a href="https://velog.io/@ih9511/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> &nbsp
