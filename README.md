@@ -15,7 +15,7 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   March 2014 - February 2022
 
 ## 🌟Experience
-- **LG Aimers**  
+- **LG Aimers - AI Hackerton**  
   $LG$ $AI$ $Research$  
   July 2024 - September 2024
 
@@ -26,6 +26,12 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
 - **AI Engineer Course**  
   $Naver$ $Connect$  
   April 2024 - June 2024
+
+## :punch: Competitions
+
+- **Kaggle**  
+  [Classification with an Academic Success Dataset](https://github.com/ih9511/Kaggle-Classification-with-an-Academic-Success-Dataset) - 622 / 2684 (top 24% with accuracy 83.48%)
+  
 
 ## 🪄Skills
 - **Tech Stack**
