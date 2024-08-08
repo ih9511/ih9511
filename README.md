@@ -44,7 +44,6 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   <div>
   	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> &nbsp
   </div>
 
   <div>
@@ -53,12 +52,15 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> &nbsp
   </div>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fih9511&count_bg=%23A1C4EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <div>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> &nbsp
+  </div>
+
 
 ## 📣Contact Me
   <div>
-  	<a href="https://velog.io/@ih9511/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/> &nbsp
-  	<a href="https://www.linkedin.com/in/inheon-choi-961a872b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/> &nbsp
+  	<a href="https://velog.io/@ih9511/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  	<a href="https://www.linkedin.com/in/inheon-choi-961a872b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
     <a href="mailto:cih956964@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </div>
 
