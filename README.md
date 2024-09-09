@@ -69,5 +69,3 @@ I'm passionate about AI convergence jobs and aim to contribute to developing AI 
   	<a href="https://www.linkedin.com/in/inheon-choi-961a872b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
     <a href="mailto:cih956964@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </div>
-
-Feel free to reach out if you want to collaborate on exciting AI projects or discuss the latest advancements in technology!
